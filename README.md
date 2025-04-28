@@ -14,9 +14,18 @@ To write a program to prepare EMI calculator using function without return type 
 6.	Stop the program.
 
 ## PROGRAM
+![image](https://github.com/user-attachments/assets/00c34022-420c-4ec7-8705-896b028abae9)
+## INPUT
+
+![image](https://github.com/user-attachments/assets/88e5c4a7-aef6-444e-9075-fd45708b6698)
+
+
 
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/e1628f01-cb3e-46ec-a613-136311ca4252)
+
 
 
 
@@ -44,7 +53,15 @@ To write a C program to generate the Fibonacci series for the value 6.
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/624e2f3a-9714-44a9-84e9-7743ee64398a)
+
+
+
+
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/36e68ac3-ead4-4a19-bdd0-423fa1da84d6)
+
 
 
 
@@ -72,7 +89,17 @@ To write a C program to read n elements as input and print the last element of t
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/9eeac8a1-791b-4530-8658-59778c7e7d33)
+## INPUT
+
+![image](https://github.com/user-attachments/assets/3ecadebf-90bf-4436-b332-4cc1a9ac91ea)
+
+
+
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/6942477b-153c-44c1-8726-4634ab10ba7b)
+
 
 
 
@@ -102,8 +129,18 @@ To write a C Program to count total number of positive elements in an array.
 
 ## PROGRAM
 
+![image](https://github.com/user-attachments/assets/a322cefc-dc9f-4b38-8115-c05b26cdbe35)
+## INPUT
+
+![image](https://github.com/user-attachments/assets/5758f320-fc8f-46c4-99cb-391ea7af0e5f)
+
+
+
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/d34a6044-2f28-4589-ad4a-26df6eadac85)
+
 
 
 
@@ -138,7 +175,17 @@ To write a C program to replace all even elements with 'E' in one dimensional ar
 
 ## Program:
 
+![image](https://github.com/user-attachments/assets/b5f8185b-e7a2-4d6e-ba8a-c0c07a8e8be1)
+## INPUT:
+
+![image](https://github.com/user-attachments/assets/b6977a81-6770-41e9-8412-ca2903cb62a1)
+
+
+
 ## Output:
+
+![image](https://github.com/user-attachments/assets/9cfed223-1ebc-4e7d-b09f-657b9e5f7f9b)
+
  
 
 
